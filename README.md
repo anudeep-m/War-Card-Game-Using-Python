@@ -1,5 +1,6 @@
 # War-Card-Game-Using-Python
-War (card game) War is a simple card game, typically played by two players using a standard playing card deck. 
+War (Card game) 
+War is a simple card game, typically played by two players using a standard playing card deck. 
 
 Gameplay --- 
 
